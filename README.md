@@ -1,11 +1,10 @@
-# Kuralarasan K
 # Portfolio
 - [About me](#about-me)
 - [CV](#cv)
 - [Skills](#skills)
 - [Tools](#tools)
-- [Professional Experience]
-- [Education]
+- [Professional Experience](url)
+- [Education](url)
 
 ## About me
 
@@ -60,7 +59,8 @@ __Jira__
 
 ##  Professional Experience:
 
-  * Test Engineer - Sun Technology Integrated PVT Ltd, Bengaluru | March 2022 - Present
+  * Test Engineer - Sun Technology Integrated PVT Ltd, Bengaluru | March 2022 - Present.
+
 Working as a Test Engineer handling manual testing, test planning, and defect resolution for various projects. Collaborating closely with developers and project managers to meet key project milestones.
 
 Business Development:
@@ -73,7 +73,8 @@ Sales & Marketing - Karthik Enterprises | June 2019 - 2022
 
 ##  Education:
 
-Master of Science in Software Engineering
+Master of Science in Software Engineering.
+
 Vellore Institute of Technology | 2014 – 2019.
 
 
