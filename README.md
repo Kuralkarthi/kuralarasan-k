@@ -3,8 +3,8 @@
 - [CV](#cv)
 - [Skills](#skills)
 - [Tools](#tools)
-- [Professional Experience](url)
-- [Education](url)
+- [Professional Experience](#Professional_Experience)
+- [Education](#EDUCATION)
 
 ## About me
 
