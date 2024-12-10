@@ -4,8 +4,8 @@
 - [CV](#cv)
 - [Skills](#skills)
 - [Tools](#tools)
-- Professional Experience.
-- Education:
+- [Professional Experience]
+- [Education]
 
 ## About me
 
