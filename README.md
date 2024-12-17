@@ -63,8 +63,8 @@ __Jira__
 
 Working as a Test Engineer handling manual testing, test planning, and defect resolution for various projects. Collaborating closely with developers and project managers to meet key project milestones.
 
-## Business Development:
-   Sales & Marketing - Karthik Enterprises | June 2019 - 2022.
+ Business Development:
+ *  Sales & Marketing - Karthik Enterprises | June 2019 - 2022.
 
   * Developed and implemented sales and marketing strategies, resulting in increase in sales.
   * Collaborated with customers and dealers to build lasting relationships and identify new business opportunities.
