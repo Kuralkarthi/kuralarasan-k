@@ -15,7 +15,7 @@ I got my Master's Degree from the University of Vellore Institute of Technologie
 I would be extremely happy to apply obtained knowledge to testing an operational product and gain hands-on experience. It is a crucial step in my current career goal — to become a mid-level software tester in 2+ years.
 
 ## CV
-You can download my CV as [a PDF from my Google Drive] [Kuralarasank-resume.pdf](https://github.com/user-attachments/files/18573926/Kuralarasank-resume.pdf)
+You can download my CV as [a PDF from link] [Kuralarasank-resume.pdf](https://github.com/user-attachments/files/18573926/Kuralarasank-resume.pdf)
 
 
 ## Skills
