@@ -1,4 +1,4 @@
-# Portfolio
+[Kuralarasank_resume.pdf](https://github.com/user-attachments/files/22357134/Kuralarasank_resume.pdf)# Portfolio
 - [About me](#about-me)
 - [CV](#cv)
 - [Skills](#skills)
@@ -12,10 +12,10 @@ I am a positive-thinking person who possesses two sides of power. On one hand, I
 
 I got my Master's Degree from the University of Vellore Institute of Technologies. Currently,  I am working as a Test Engineer and also intensively studying techniques and tools by attending online courses and testing web applications created for learning purposes.
 
-I would be extremely happy to apply obtained knowledge to testing an operational product and gain hands-on experience. It is a crucial step in my current career goal — to become a mid-level software tester in 2+ years.
+I would be extremely happy to apply obtained knowledge to testing an operational product and gain hands-on experience. It is a crucial step in my current career goal — to become a mid-level software tester in 3+ years.
 
 ## CV
-You can download my CV as [a PDF from link] [Kuralarasank-resume.pdf](https://github.com/user-attachments/files/18573926/Kuralarasank-resume.pdf)
+You can download my CV as [a PDF from link] [Kuralarasank_resume.pdf](https://github.com/user-attachments/files/22357143/Kuralarasank_resume.pdf)
 
 
 ## Skills
